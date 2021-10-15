@@ -1,4 +1,4 @@
-## 🤺 Code Stats
+## 🤺 
 
 | [![Github stats](https://github-readme-stats.vercel.app/api?username=Littlegolden&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](#) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Littlegolden&layout=compact&hide_border=true&langs_count=10&hide=Groff,Perl,Makefile,Shell,Prolog,HTML,Gettext%20Catalog)](#) |
 | ------------- | ------------- |
