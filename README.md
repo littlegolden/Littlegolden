@@ -5,7 +5,7 @@
 
 ## 🎮 WakaTime
 
-[![Breaker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Littlegolden&show_icons=true)](#) 
+[![Golden's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Littlegolden&show_icons=true)](#) 
 
 ## ⚡ Visitors
 [![Visitors](https://profile-counter.glitch.me/Littlegolden/count.svg)](#)
